@@ -1,4 +1,4 @@
-name: Build and deploy blog
+name: Build and deploy cron-job.org blog
 
 on:
   push:
