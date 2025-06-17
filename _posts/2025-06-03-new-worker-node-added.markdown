@@ -10,4 +10,4 @@ In case you’re using an IP-based allowlist or a firewall to protect your cron 
 
 Usually we don’t move jobs between nodes once they’re created, so this should affect new jobs only. Your existing jobs will continue to be executed from the usual IP addresses.
 
-We’ve also extended our [FAQ](https://cron-job.org/faq/) and our [JSON list of node IPs](https://api.cron-job.org/executor-nodes.json) to include the new worker’s IP address.
+We’ve also extended our [FAQ](https://cron-job.org/faq/){:target="_blank"} and our [JSON list of node IPs](https://api.cron-job.org/executor-nodes.json){:target="_blank"} to include the new worker’s IP address.
