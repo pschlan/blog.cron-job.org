@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SSL Expiry Notifications"
+title:  "SSL expiry notifications"
 date:   2026-06-12 20:00:00 +0200
 categories: service news
 ---
