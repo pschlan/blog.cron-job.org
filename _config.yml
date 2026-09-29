@@ -33,6 +33,12 @@ plugins:
   - jekyll-feed
 #  - jemoji
 
+# Silence Dart Sass deprecations from the minima theme (upstream; fixed in a
+# future minima major). See https://github.com/jekyll/minima/issues/815
+sass:
+  quiet_deps: true
+  silence_deprecations: [import, global-builtin, color-functions]
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
